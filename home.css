@@ -1,0 +1,49 @@
+#image {
+  width:80px;
+  height:80px;
+  /*float:left;*/
+}
+.modal-dialog{
+     position: fixed;
+     top: 10px;
+     right: 0;
+     bottom: 0;
+     left: 0;
+     width=100%;
+     height=100%;
+     overflow: auto;
+}
+#pst{
+  width: 150px;
+  height: 225px;
+  /*margin-bottom: 5px;*/
+  cursor: pointer;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  margin: auto;
+}
+
+#d1{
+  margin-bottom: 5px;
+  margin-top: 5px;
+   /*box-shadow: 0px 20px 15px #000000;*/
+}
+body{
+  background: linear-gradient(to bottom,  #afffff, #434343);
+
+}
+/*#circle1{
+  background-color: white;
+  border-radius: 50%;
+  height:20px;
+  width:20px;
+}
+#circle2{
+  background-color: white;
+  border-radius: 50%;
+  height:20px;
+  width:20px;
+margin-top:100px;
+margin-right: 100px;
+}*/
